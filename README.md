@@ -1,6 +1,6 @@
 # autocomplete+ package [![Build Status](https://travis-ci.org/saschagehlich/autocomplete-plus.svg?branch=master)](https://travis-ci.org/saschagehlich/autocomplete-plus)
 
-NOTE: This is fork, autocomplete+ was adjusted to make it work fine with `autocomplete-haxe` package(by switching to async providers + show completion on dot). You can find original repository at https://github.com/saschagehlich/autocomplete-plus
+NOTE: This is fork, `autocomplete+` was adjusted to make it work fine with `autocomplete-haxe` package(by switching to async providers + show completion on dot). You can find original repository at https://github.com/saschagehlich/autocomplete-plus
 
 [View the changelog](https://github.com/saschagehlich/autocomplete-plus/blob/master/CHANGELOG.md)
 
