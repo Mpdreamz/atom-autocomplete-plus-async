@@ -2,6 +2,10 @@
 
 NOTE: This is fork, `autocomplete+` was adjusted to make it work fine with `autocomplete-haxe` package(by switching to async providers + show completion on dot). You can find original repository at https://github.com/saschagehlich/autocomplete-plus
 
+NOTE: This is a fork of the fork so that we can depend on a published npm module instead of git:// linksin [atom sharper](https://github.com/Mpdreamz/atom-sharper) which appears to be problematic on windows
+
+
+
 [View the changelog](https://github.com/saschagehlich/autocomplete-plus/blob/master/CHANGELOG.md)
 
 View and insert possible completions in the editor while typing
