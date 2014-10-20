@@ -2,7 +2,7 @@
   "name": "autocomplete-plus-async-plus",
   "version": "0.22.0",
   "main": "./lib/autocomplete",
-  "description": "Display possible completions in the editor while typing",
+  "description": "unofficial NPM publish of https://github.com/HaxeIDE/atom-autocomplete-plus-async/issues",
   "repository": {
     "type": "git",
     "url": "https://github.com/HaxeIDE/atom-autocomplete-plus-async"
@@ -22,6 +22,10 @@
     {
       "name": "AS3Boyan",
       "email": "as3boyan@gmail.com"
+    },
+    {
+      "name": "Mpdreamz",
+      "email": "Mpdreamz@gmail.com"
     }
   ],
   "dependencies": {
@@ -30,7 +34,7 @@
     "temp": ">=0.7.0",
     "underscore-plus": "1.x"
   },
-  "readme": "NPM publish of https://github.com/Mpdreamz/atom-autocomplete-plus-async",
+  "readme": "unofficial NPM publish of https://github.com/HaxeIDE/atom-autocomplete-plus-async/issues",
   "readmeFilename": "README.md",
   "bugs": {
     "url": "https://github.com/HaxeIDE/atom-autocomplete-plus-async/issues"
