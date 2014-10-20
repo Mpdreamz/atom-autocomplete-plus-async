@@ -1,6 +1,6 @@
 {
   "name": "autocomplete-plus-async-plus",
-  "version": "0.22.0",
+  "version": "0.22.1",
   "main": "./lib/autocomplete",
   "description": "unofficial NPM publish of https://github.com/HaxeIDE/atom-autocomplete-plus-async/issues",
   "repository": {
